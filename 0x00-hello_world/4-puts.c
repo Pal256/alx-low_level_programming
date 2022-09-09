@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main-printing 
+ * main-printing puts
  *
  * Return: Always 0 (okay)
  */
