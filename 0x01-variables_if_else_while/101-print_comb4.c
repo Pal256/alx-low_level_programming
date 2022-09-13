@@ -17,7 +17,7 @@ int main(void)
 
 			for (m = '2'; m <= '9'; m++)
 			{
-			if (m > p && P > i)
+			if (m > p && p > i)
 			{
 
 				putchar(i + '0');
