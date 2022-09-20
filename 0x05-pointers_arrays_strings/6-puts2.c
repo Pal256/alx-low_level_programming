@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * put2 - print every other character
+ * puts2 - print every other character
  * @str: string
  *
  * Return: 0
