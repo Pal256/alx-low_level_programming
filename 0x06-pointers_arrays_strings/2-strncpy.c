@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _stncpy - c function that cople a string
+ * _strncpy - C function that cople a string
  * if the lenrth of the source string is less than the maixmum byte number,
  * the remainder of the destrination string is filled with null byte.
  * @dest: buffer storing the string copy
@@ -10,7 +10,7 @@
  * Return: return
  */
 
-char *_strncp(char *dest, char *src, int n)
+char *_strncpy(char *dest, char *src, int n)
 {
 
 	int i;
